@@ -50,6 +50,7 @@ If we talk about testing banking applications it requires an end-to-end testing 
 □ User Experience
 
 Typical stages involved in testing Banking Applications are shown in below workflow which we will be discussing individually.
+![image](https://github.com/user-attachments/assets/6327a080-bd3d-4966-bd0f-1d9cc1c5e0dd)
 
 
 ### Requirement Gathering: 
