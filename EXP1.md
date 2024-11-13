@@ -107,11 +107,10 @@ iterate()
 ### Output:
 
 ![image](https://github.com/user-attachments/assets/6f7eca5e-7ff1-426b-a7f5-aafcd5ef8e03)
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/6c1be841-a3e0-44db-8c9c-4fbd801f6a8d)
+![image](https://github.com/user-attachments/assets/06e16b40-6c51-4537-b191-edabca2a5614)
+![image](https://github.com/user-attachments/assets/ef64f0d9-aa32-4ead-b23c-7e5dbf2a90c4)
+![image](https://github.com/user-attachments/assets/7498a428-23af-49b2-aa4d-824d4afe89ba)
 
 ### Result:
 Thus, the python program to demonstrate the working of given constructs is implemented and the output is verified successfully.
