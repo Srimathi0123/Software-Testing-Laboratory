@@ -1,5 +1,4 @@
-# Ex.No: 10  Pytest program for Sum of digits
-
+# Ex.No: 10 Ex.No: 14 Pytest program for Fibonacci Series
 ### DATE: 05-11-2014                                                                           
 ### REGISTER NUMBER : 212221040162
 ### AIM: To write a python program for Fibonacci Series and generate test cases using Pytest. 
@@ -31,14 +30,6 @@ def test_fib_2_equals_1():
 def test_fib_6_equals_8(): 
 assert fibR(6) == 7 
 ```
-
-
-
-
-
-
-
-
 
 
 ### Output:
