@@ -1,5 +1,5 @@
 ### Ex.No 5 Binary Search
-### Date : 08/10/24
+### Date : 13/09/24
 ### Register Number:212221040162
 
 ### AIM: 
